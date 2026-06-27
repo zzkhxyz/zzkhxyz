@@ -1,8 +1,9 @@
-<h1 align="center">Hi there, I'm Zhan 👋</h1>
+<h1 align="center">Hello everyone, i'm Zhan</h1>
 
 <p align="center">
-  <b>Big Data Analytics student @ Astana IT University</b><br>
-  Aspiring <b>Data Analyst · Data Engineer · AI Engineer</b> — building data pipelines, analytics & AI tools in Python.
+  <b>Big Data Analysis student @ Astana IT University</b><br>
+  Aspiring <b>Data Analyst · Data Engineer · AI Engineer</b> - building data pipelines, analytics & AI tools in Python.
+  Currently doing my industrial internship, where I tackle a range of interesting business cases — from building ETL pipelines and automating analytics to developing   AI-powered tools that solve real operational problems.
 </p>
 
 <p align="center">
@@ -19,7 +20,6 @@
 - 📊 Focused on **data analytics, ETL pipelines, and process automation** with Python
 - 🤖 Learning **Machine Learning** and building **AI-powered chatbots**
 - 🌍 Based in **Astana, Kazakhstan** — open to **remote** Junior **Data Analyst / Data Engineer / AI Engineer** roles
-- ⚡ I enjoy turning messy data into clean insights and automating the boring parts
 
 ---
 
